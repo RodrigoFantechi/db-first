@@ -17,4 +17,4 @@ Confermate lettura come al solito e buon db!
 - note - TEXT | NULL
 - plot - TEXT | NULL
 - year - YEAR | NOTNULL
-- cover - VARCHAR(255) | NULL
+- cover - VARCHAR(255) |NULL
